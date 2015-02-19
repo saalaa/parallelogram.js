@@ -1,0 +1,20 @@
+{
+  "name": "parallelogram.js",
+  "version": "1.0.0",
+  "description": "Run functions in parallel with a final callback (small and no dependencies).",
+  "main": "parallelogram.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@bitbucket.org:saalaa/parallelogram.js.git"
+  },
+  "keywords": [
+    "parallel",
+    "async",
+    "callback"
+  ],
+  "author": "Benoit Myard <benoit@saalaa.net>",
+  "license": "ISC"
+}

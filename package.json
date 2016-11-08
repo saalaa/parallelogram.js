@@ -1,6 +1,6 @@
 {
   "name": "parallelogram.js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Run functions in parallel with a final callback (small and no dependencies).",
   "main": "parallelogram.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@bitbucket.org:saalaa/parallelogram.js.git"
+    "url": "git@github.com:saalaa/parallelogram.js.git"
   },
   "keywords": [
     "parallel",
